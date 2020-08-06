@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = inouridder@gmail.com
-	name = Inou Ridder
+	email = Ridder
+	name = Inou
